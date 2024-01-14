@@ -5,7 +5,7 @@
       <h3>Furniture Management System with UI</h3>
 
      This is an academic project on Furniture Management System with UI. Built with: HTML, CSS, JavaScript, PHP, MySQL.
-To get a local copy and run code from GitHub, you can either download it or clone it to your computer follow these simple example steps:
+     To get a local copy and run code from GitHub, you can either download it or clone it to your computer follow these simple example steps:
 
        -> Go to the main page of the repository on GitHub.com.
        -> Click Code above the list of files.
